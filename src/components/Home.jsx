@@ -82,13 +82,6 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="animate-float absolute right-6 top-1/3 hidden lg:block">
-          <div className="rounded-2xl border border-accent/20 bg-surface-card/80 p-6 backdrop-blur-sm">
-            <div className="mb-3 text-4xl">🚀</div>
-            <p className="text-sm font-semibold text-white">3 Projects</p>
-            <p className="text-xs text-muted">Mobile, AI & CV</p>
-          </div>
-        </div>
       </div>
 
       <button
